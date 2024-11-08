@@ -1,3 +1,4 @@
+print("\nBilangan dari 1 hingga 6:")
 #Bilangan 1-6
 i = 1
 while i <= 6:
@@ -8,7 +9,7 @@ while i <= 6:
     i += 1
 
 
-
+print("\nHanya Bilangan Genap dari 1 hingga 6:")
 #Bilangan genap 1-6
 i = 1
 while i <= 6:
@@ -17,7 +18,7 @@ while i <= 6:
     i += 1
 
 
-
+print("\nHanya Bilangan Ganjil dari 1 hingga 6:")
 #Bilangan ganjil 1-6
 i = 1
 while i <= 6:
